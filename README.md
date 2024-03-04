@@ -4,7 +4,7 @@ Apna_shop is an Ecommerce web application built with Next.js and MongoDB.
 
 
 <!-- Screenshots -->
-
+<img src="/public/e-commerce.gif" width="50%" height="50%" title="e-commerce" >
 ### :camera: Screenshots
 
 ![1](https://github.com/tavatamvinayak/Apna_shop/assets/107667781/83662bb8-f552-4762-b991-de3a15edeb89)
